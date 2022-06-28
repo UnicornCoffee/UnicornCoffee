@@ -10,6 +10,7 @@
     👀 I’m a  Computer Science student at DCU!
     🌱 I’m currently learning Python n.n
     🎆 Don't mind any of my ✨𝓼𝓹𝓮𝓵𝓵𝓲𝓷𝓰 𝓮𝓻𝓻𝓸𝓻𝓼✨
+    🇰🇭  Fun Fact: I speak Khmer!
   
   
 
