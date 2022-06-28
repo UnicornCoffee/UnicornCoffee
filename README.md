@@ -1,5 +1,5 @@
 
-<imgsrc="https://github.com/UnicornCoffee/UnicornCoffee/blob/main/header.png?raw=true" alt="banner that says UnicornCoffee>
+<imgsrc="https://github.com/UnicornCoffee/UnicornCoffee/blob/main/header.png" alt="banner that says UnicornCoffee>
 
 
 - 👋 Hi, I’m @UnicornCoffee
