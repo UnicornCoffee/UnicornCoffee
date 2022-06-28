@@ -1,3 +1,7 @@
+
+<imgsrc="https://github.com/UnicornCoffee/UnicornCoffee/blob/main/header.png?raw=true" alt="banner that says UnicornCoffee>
+
+
 - 👋 Hi, I’m @UnicornCoffee
 - 👀 I’m a first year Computer Science student at DCU!
 - 🌱 I’m currently learning Python n.n
