@@ -8,7 +8,6 @@
 
 
     👀 I’m a  Computer Science student at DCU!
-    🌱 I’m currently learning Python n.n
     🎆 Don't mind any of my ✨𝓼𝓹𝓮𝓵𝓵𝓲𝓷𝓰 𝓮𝓻𝓻𝓸𝓻𝓼✨
     🇰🇭  Fun Fact: I speak Khmer!
   
@@ -16,16 +15,6 @@
 
 <br/>  
 
-
-
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=UnicornCoffee&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
-
-<br/>  
-
-
-
-  
 
 <br/>  
 
