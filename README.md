@@ -16,11 +16,6 @@
 <br/>  
 
 
-<br/>  
-
-<div align="center"><img src="https://spotify-github-profile.vercel.app/api/view?uid=smollershiba&cover_image=true&theme=default" /></div>  
-
-<br/>  
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=UnicornCoffee&&style=flat-square" align="center" />
